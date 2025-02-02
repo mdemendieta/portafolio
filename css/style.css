@@ -400,12 +400,12 @@
 }
 
 .portfolio-content .portfolio-item .portfolio-img .portfolio-img-inner {
-    visibility: visible;
+    
     transition: 0.5s;
 }
 
 .portfolio-content .portfolio-item:hover .portfolio-img .portfolio-img-inner {
-    visibility: visible;
+    
     transform: rotate(-6deg);
 }
 /*** Portfolio End ***/
